@@ -7,3 +7,11 @@
 # 
 # Author: Sarah Hall (sarah.j.hall@duke.edu)
 # Date:   Fall 2026 
+
+#create the geographic selection box 
+the_box = {
+    'x_min' : 34.00,
+    'y_min' : -76.00,
+    'x_max' : 34.50,
+    'y_max' : -75.00
+}
