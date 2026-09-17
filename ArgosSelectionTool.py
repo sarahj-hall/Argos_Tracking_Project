@@ -33,3 +33,5 @@ tag_id = line_data[34]    # Tag identifier ("tag-local-identifier")
 
 #print information to use 
 print(f"Record {event_id} indicates {tag_id} was seen at {lat}N and {lon}W on {timestamp}")
+
+#T
